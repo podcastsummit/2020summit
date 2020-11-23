@@ -1,5 +1,5 @@
 ---
-title: "video"
+title: "other"
 bg: turquoise
 color: white
 fa-icon: film

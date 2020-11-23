@@ -1,5 +1,5 @@
 ---
-title: "updating"
+title: "分享你的录音setup"
 bg: purple
 color: white
 fa-icon: cloud-upload
