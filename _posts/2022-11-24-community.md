@@ -6,4 +6,4 @@ color: black
 fa-icon: globe
 ---
 
-### RSS Feed of participants (logo and RSS link)- Pending
+### COMING SOON
