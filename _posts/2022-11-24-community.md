@@ -80,3 +80,9 @@ fa-icon: globe
 <a href="https://podcasts.apple.com/cn/podcast/%E6%9C%9D8%E5%A4%9510/id1183991311" target="_blank">
   <img class="communities_logo" src="img/朝8夕10_logo.jpg" alt="img/朝8夕10_logo">
 </a>
+<a href="https://readependenceday.fireside.fm/" target="_blank">
+  <img class="communities_logo" src="img/讀立日_logo.jpg" alt="img/讀立日_logo">
+</a>
+<a href="https://dingzeyu.li/podcast/" target="_blank">
+  <img class="communities_logo" src="img/李丁聊天室_logo.png" alt="img/李丁聊天室_logo">
+</a>
