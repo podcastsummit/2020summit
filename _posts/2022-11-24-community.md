@@ -6,13 +6,33 @@ color: black
 fa-icon: globe
 ---
 
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
-<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" href="www.google.com" target="_blank" alt="placeholder_logo">

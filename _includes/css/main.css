@@ -358,6 +358,10 @@ nav ul li:hover, nav ul li.active {
 
 /*Custom CSS*/
 
-.communities_logo{
-  max-width:120px;
+img.communities_logo {
+  display: inline-block;
+  float: left;
+  width: 20%;
+  height: 20%;
+  overflow: hidden;
 }
