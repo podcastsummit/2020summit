@@ -365,3 +365,7 @@ img.communities_logo {
   height: 20%;
   overflow: hidden;
 }
+
+img.communities_logo:hover {
+    opacity: 0.8;
+}

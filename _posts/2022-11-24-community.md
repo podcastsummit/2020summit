@@ -23,9 +23,6 @@ fa-icon: globe
 <a href="https://localstops.buzzsprout.com/" target="_blank">
   <img class="communities_logo" src="img/低速公路_logo.jpg" alt="低速公路_logo">
 </a>
-<a href="https://localstops.buzzsprout.com/" target="_blank">
-  <img class="communities_logo" src="img/低速公路_logo.jpg" alt="低速公路_logo">
-</a>
 <a href="https://www.buzzsprout.com/1131311" target="_blank">
   <img class="communities_logo" src="img/ECOYOYO_绿游游.jpg" alt="ECOYOYO_绿游游_logo">
 </a>
@@ -44,8 +41,11 @@ fa-icon: globe
 <a href="https://podcasts.apple.com/us/podcast/%E5%A5%B6%E9%85%AA%E6%A3%AE%E6%9E%97/id1511434550?uo=4" target="_blank">
   <img class="communities_logo" src="img/奶酪森林_logo.jpg" alt="奶酪森林_logo">
 </a>
+<a href="https://podcasts.apple.com/us/podcast/%E5%99%A2-%E5%A6%88%E5%A6%88-oh-mama/id1531486512" target="_blank">
+  <img class="communities_logo" src="img/oh_mama_logo.jpg" alt="oh_mama_logo">
+</a>
 <a href="https://podcasts.apple.com/ca/podcast/%E6%99%AE%E9%80%9A%E8%AF%BB%E8%80%85/id1536240428" target="_blank">
-  <img class="communities_logo" src="img/普通读者_logo.png" alt="普通读者_logo">
+  <img class="communities_logo" src="img/普通读者_logo.jpg" alt="普通读者_logo">
 </a>
 <a href="https://anchor.fm/sanrenchenghu" target="_blank">
   <img class="communities_logo" src="img/三人成虎_logo.jpg" alt="三人成虎_logo">
@@ -54,10 +54,10 @@ fa-icon: globe
   <img class="communities_logo" src="img/生活在别处_logo.jpeg" alt="生活在别处_logo">
 </a>
 <a href="https://anchor.fm/time-wine" target="_blank">
-  <img class="communities_logo" src="img/时间醍醐_logo.jpeg" alt="时间醍醐_logo">
+  <img class="communities_logo" src="img/时间醍醐_logo.jpg" alt="时间醍醐_logo">
 </a>
 <a href="https://podcasts.google.com/feed/aHR0cDovL3d3dy5icnVjZWJvZGluZy5vcmcvdG9waWNhbD9mb3JtYXQ9UlNT" target="_blank">
-  <img class="communities_logo" src="img/the_topical_podcast_logo.jpeg" alt="the_topical_podcast_logo">
+  <img class="communities_logo" src="img/the_topical_podcast_logo.png" alt="the_topical_podcast_logo">
 </a>
 <a href="http://www.buzzsprout.com/1078676" target="_blank">
   <img class="communities_logo" src="img/湾上说规划_logo.jpg" alt="湾上说规划_logo">
