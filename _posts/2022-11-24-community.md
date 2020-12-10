@@ -6,33 +6,13 @@ color: black
 fa-icon: globe
 ---
 
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
-<img src="img/a_small_gathering_logo.jpg" alt="a_small_gather_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
+<img class="communities_logo" src="img/placeholder.jpg" alt="placeholder_logo">
