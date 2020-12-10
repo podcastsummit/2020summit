@@ -5,6 +5,9 @@ color: black
 ##fa-icon: toggle-on
 fa-icon: globe
 ---
+
+## Participants
+
 <a href="https://yinggathering.com/podcast-2/" target="_blank">
   <img class="communities_logo" src="img/a_small_gathering_logo.jpg" alt="a_small_gathering_logo">
 </a>
