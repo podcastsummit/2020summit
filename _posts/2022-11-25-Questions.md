@@ -1,5 +1,5 @@
 ---
-title: "RESOURCES & LINKS"
+title: "RESOURCES"
 bg: '#63BD2F'
 color: white
 ##fa-icon: plug
