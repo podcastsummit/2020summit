@@ -86,3 +86,9 @@ fa-icon: globe
 <a href="https://dingzeyu.li/podcast/" target="_blank">
   <img class="communities_logo" src="img/李丁聊天室_logo.png" alt="img/李丁聊天室_logo">
 </a>
+<a href="https://podcasts.apple.com/de/podcast/%E6%89%93%E5%B7%A5%E8%B0%88/id1528328827?l=en" target="_blank">
+  <img class="communities_logo" src="img/打工谈_logo.jpg" alt="img/打工谈_logo">
+</a>
+<a href="https://podcast.midofnowhere.link/" target="_blank">
+  <img class="communities_logo" src="img/午时已到_logo.jpg" alt="img/午时已到_logo">
+</a>
